@@ -6,7 +6,7 @@ on:
       image_name:
         description: 'Docker image name (e.g., your_dockerhub_username/alist-image)'
         required: true
-        default: 'your_dockerhub_username/alist-image'
+        default: 'zhr520v/alist123'
       image_tag:
         description: 'Docker image version (e.g., v3.44.0)'
         required: true
