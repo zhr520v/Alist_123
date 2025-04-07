@@ -10,7 +10,7 @@ on:
       image_tag:
         description: 'Docker image version (e.g., v3.44.0)'
         required: true
-        default: 'v3.44.0'
+        default: 'v3.44.0-amd64'
 
 jobs:
   build:
